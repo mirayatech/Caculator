@@ -6,7 +6,7 @@ A website where you can use a calculator. It works to add numbers, subtract numb
 - How to select HTML element in the `DOM`
 - Heavily focused on the JavaScript `conditionals` (if/else if/else)
 -  Working with `functions`
--  
+
 ## How it looks 🎥
 
 **Live:** https://mintcaculator.netlify.app/
