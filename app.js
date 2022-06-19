@@ -1,10 +1,6 @@
-// SELECT ALL OF THE Buttons
 const btn = document.querySelectorAll("input[type='button']");
 const textField = document.querySelector(".textField");
-
-// ADD TEH EVENT TO EVERY BUTTON
 btn.forEach((button) => button.addEventListener("click", getTheValue));
-// Fuction
 
 function getTheValue() {
   let value = this.value;
