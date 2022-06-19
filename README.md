@@ -12,6 +12,6 @@ A website where you can use a calculator. It works to add numbers, subtract numb
 **Live:** https://mintcaculator.netlify.app/
 
 
-https://user-images.githubusercontent.com/71933266/170868758-9624daf2-f131-4d8b-8552-810fd9bdcb9c.mp4
 
+https://user-images.githubusercontent.com/71933266/174468637-ccc8fd3d-6157-4ab8-9358-595d05d0d3b6.mp4
 
