@@ -9,7 +9,6 @@ A website where you can use a calculator. It works to add numbers, subtract numb
 
 ## How it looks 🎥
 
-**Live:** https://mintcaculator.netlify.app/
 
 
 
